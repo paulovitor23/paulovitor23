@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Paulo Vitor
 
-<!--
-**paulovitor23/paulovitor23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Computação na UFRJ, focado em desenvolvimento de software com interesse especial em back-end e inteligência artificial.
 
-Here are some ideas to get you started:
+## 🚀 Atualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Estudando Node.js, TypeScript, NestJS e arquitetura de APIs REST
+* Desenvolvendo projetos práticos para consolidar habilidades em back-end
+* Explorando aplicações de IA e automação de processos
+
+## 🛠️ Tecnologias e Ferramentas
+
+* JavaScript / TypeScript
+* Node.js / NestJS
+* Prisma / Supabase
+* Git & GitHub
+* Python
+
