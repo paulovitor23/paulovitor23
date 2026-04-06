@@ -4,14 +4,14 @@ Sou estudante de Engenharia de Computação na UFRJ, focado em desenvolvimento d
 
 ## 🚀 Atualmente
 
-* Estudando Node.js, TypeScript, NestJS e arquitetura de APIs REST
+* Estudando Node.js, TypeScript e arquitetura de APIs REST
 * Desenvolvendo projetos práticos para consolidar habilidades em back-end
 * Explorando aplicações de IA e automação de processos
 
 ## 🛠️ Tecnologias e Ferramentas
 
 * JavaScript / TypeScript
-* Node.js / NestJS
+* Node.js 
 * Prisma / Supabase
 * Git & GitHub
 * Python
